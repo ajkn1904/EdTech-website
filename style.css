@@ -5,3 +5,7 @@
 .header-texts {
     margin-top: 200px;
 }
+
+.header-texts h1 {
+    font-size: 4.5vw;
+}
