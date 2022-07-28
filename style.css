@@ -18,3 +18,7 @@ section {
 a {
     text-decoration: none;
 }
+
+.fa-star {
+    color: gold;
+}
